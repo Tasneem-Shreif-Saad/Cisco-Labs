@@ -14,4 +14,10 @@ This repository contains my networking labs and projects created while learning 
 - NAT
 
 ## Software
-Cisco Packet Tracer
+- Cisco Packet Tracer
+
+## Repository Structure
+Each project is saved as a separate Cisco Packet Tracer (.pkt) file.
+
+## Author
+Tasneem Shreif Saad
