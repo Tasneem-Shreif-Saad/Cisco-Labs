@@ -1,18 +1,17 @@
-# LAN Network Design
+# Cisco Labs
 
-## Overview
-This project demonstrates a simple Local Area Network (LAN) designed using Cisco Packet Tracer.
+Welcome to my Cisco Packet Tracer repository.
 
-## Network Devices
-- Cisco 2960 Switch
-- 2 PCs
-- 1 Laptop
-- 1 Server
+This repository contains my networking labs and projects created while learning Cisco Networking.
 
-## Features
-- Devices connected using Copper Straight-Through cables.
-- Successful ICMP (Ping) communication between all devices.
-- Basic LAN topology simulation.
+## Topics
+- Basic LAN
+- VLAN
+- DHCP
+- Static Routing
+- Dynamic Routing
+- ACL
+- NAT
 
 ## Software
 Cisco Packet Tracer
